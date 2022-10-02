@@ -1,0 +1,40 @@
+This Repository has the code for below
+
+Class Name : Basics.java
+
+->Setting Base URI
+->Syntax for queryparameters
+->syntax for header
+->payload body getting from a text file, sending it directly in executable class
+->Asserting status code of response
+->Asserting response content
+->Asserting header
+->Converting response raw data to JsonPath
+->Getting a specific key value from response body
+
+Class Name : ComplexJson.java
+
+This class all basic operations content in response body such as
+
+->finding size of one perticual tag in json body
+->reading key value where key is of array type
+
+Class Name : DynamicJson
+
+->use of dataprovider in API testing
+->Sending multiple API requests with different data sets with help of DataProvider
+
+Class Name : SpecBuildTest.java
+
+->Usage of RequestSpecBuilder and Pojo Classes
+
+Class Name : AddPlaceWithPojo.java
+@Serialization, @Deserialization
+->Building Pojo classes for request payload
+
+Class Name : OAuthTest.java
+
+->Implementation of OAuth 2.0
+
+
+
